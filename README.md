@@ -28,6 +28,9 @@ Soon, you should find both new and old projects of mine here!
 
 # 
 
+>Please reach out to me if you have any questions, opportunites, want to collaborate, or just to say hello!  
 
-
->Please reach out to me if you have any questions, opportunites, want to collaborate, or just to say hello!
+<p align="left">
+    <a href="https://www.linkedin.com/in/joe-aschenbrenner/">
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?logo=linkedin&logoSource=feather"/></a>
+</p>
